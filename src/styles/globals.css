@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar:hover::-webkit-scrollbar-thumb:vertical {
+  @apply bg-zinc-700;
+}
+
+.scrollbar::-webkit-scrollbar {
+  @apply w-1.5 h-1.5 bg-transparent rounded-xl;
+}
+
+.scrollbar::-webkit-scrollbar-thumb:vertical {
+  @apply bg-transparent h-[1px] w-[1px] rounded-xl;
+}

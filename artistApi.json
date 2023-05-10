@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MC Marks",
+    "id": "aeb56247-9585-49f7-8b9c-9852c1456b7e",
+    "img": "/images/mcmarks",
+    "play": false
+  },
+  {
+    "name": "Orochi",
+    "id": "aeb56247-9585-49f7-8b9c-985211456b7e",
+    "img": "/images/orochi",
+    "play": true
+  },
+  {
+    "name": "KayBlack",
+    "id": "aeb56247-9585-49f7-8b9c-9852c1456b71",
+    "img": "/images/kayBlack",
+    "play": false
+  },
+  {
+    "name": "Felipe Ret",
+    "id": "aeb56247-9585-49f7-1b9c-9852c1456b7e",
+    "img": "/images/felipeRet",
+    "play": false
+  },
+  {
+    "name": "Costa Gold",
+    "id": "aeb52247-9585-49f7-8b9c-9852c1456b7e",
+    "img": "/images/costaGold",
+    "play": false
+  },
+  {
+    "name": "Matuê",
+    "id": "aeb56247-9585-49f7-8b9c-9852c145637e",
+    "img": "/images/matue",
+    "play": false
+  }
+]
